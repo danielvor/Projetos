@@ -1,4 +1,3 @@
-# Projetos
-### Projects built with Instructors around the web.
+## Como fazer deploy no Cloud Run
 
-### Each code challenge and project challenge is in its respective branch
+![Diagram Api](./docs/images/ci.png)

@@ -2,7 +2,7 @@ name: GCP
 
 on:
   push:
-    branches: [Youtube]
+    branches: [main]
 
 jobs:
   deploy:
